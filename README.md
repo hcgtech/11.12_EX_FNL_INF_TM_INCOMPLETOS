@@ -60,13 +60,11 @@ _Debes respetar la siguiente consigna_
 > * Segunda página estará la Tabla de Contenido o Indice.
 > * Tercera página debe empezar todo el cuerpo del texto
 > * Recuerda que al final, agregar una pagina horizontal, donde debes pegar la grafica que dejo disponible
-> * Al final debes tener incorporado la bibliografía
 
 * Separa en 4 Secciones:
 > * Sección 1, Portada
 > * Sección 2, Indice y Cuerpo del texto
 > * Sección 3, Imagen (PAGINA HORIZONTAL)
-> * Sección 4, Bibliografia y fuentes
 
 * Utiliza la siguiente imagen, lo copias y pegas en tu archivo que estás armando en la sección 3.
 > ![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_INCOMPLETOS/blob/main/images/layout.png "GRAFICA")
@@ -87,7 +85,8 @@ _Debes respetar la siguiente consigna_
    ![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_INCOMPLETOS/blob/main/images/tablaygrafica.png "TABLA Y GRAFICA")
 
 **Paso 5:**
-* Abre la aplicación 
+* Abre la aplicación gamma.app
+* Genera una presentación a partir de la información armada en tu informe.
 
 **Paso 6:**
 * En tu github, abre y edita el README.MD
@@ -115,4 +114,4 @@ _Debes respetar la siguiente consigna_
       
       ```
  
- **Paso 7:** Copiar y pegar el link del repositorio Github en la ventana del Examen
+ **Paso 7:** Copiar y pegar el link del examen realizado en la ventana del Examen
