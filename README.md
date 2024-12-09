@@ -53,7 +53,7 @@ Podrías preparar en formato Manual un Protocolos de emergencia y evacuación pa
 * Abre el Procesador de texto de google y crea un archivo [[pulsa aquí para abrir el Procesador de Texto](https://docs.google.com/document/u/0/)]
   * _Recuerda habilitar markdown dentro de preferencias_ 
   * Con la información genera por Claude.ai, **Copia y pega lo generado por Claude** 
-* UTILIZA LA MUESTRA ANTERIOR (MIRA MAS ARRIBA EN )
+* UTILIZA LA MUESTRA ANTERIOR (OBSERVA MAS ARRIBA)
 
 _Debes respetar la siguiente consigna_
 > * Primer página debe ser la Portada.
