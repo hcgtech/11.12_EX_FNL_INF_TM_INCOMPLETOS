@@ -114,5 +114,5 @@ _Debes respetar la siguiente consigna_
       [[Presentaciones](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
       
       ```
- **Paso 7:** Compartir del link del repositorio Github en formulario
-     [[Formulario de Entrega]()]
+ 
+ **Paso 7:** Copiar y pegar el link del repositorio Github en la ventana del Examen
